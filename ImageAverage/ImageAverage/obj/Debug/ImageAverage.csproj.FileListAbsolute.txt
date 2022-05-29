@@ -1,0 +1,10 @@
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\bin\Debug\ImageAverage.exe.config
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\bin\Debug\ImageAverage.exe
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\bin\Debug\ImageAverage.pdb
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\bin\Debug\System.Drawing.Common.dll
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\bin\Debug\System.Drawing.Common.xml
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\obj\Debug\ImageAverage.csproj.AssemblyReference.cache
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\obj\Debug\ImageAverage.csproj.SuggestedBindingRedirects.cache
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\obj\Debug\ImageAverage.csproj.CoreCompileInputs.cache
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\obj\Debug\ImageAverage.exe
+C:\Users\erwtj\source\repos\ImageAverage\ImageAverage\obj\Debug\ImageAverage.pdb

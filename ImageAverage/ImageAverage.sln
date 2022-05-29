@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAverage", "ImageAverage\ImageAverage.csproj", "{A2DB007D-7939-41D2-A2FA-F4EBB614182C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DB007D-7939-41D2-A2FA-F4EBB614182C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DB007D-7939-41D2-A2FA-F4EBB614182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DB007D-7939-41D2-A2FA-F4EBB614182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DB007D-7939-41D2-A2FA-F4EBB614182C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27FB2D90-D969-4ED5-B18D-CCE139A33ECF}
+	EndGlobalSection
+EndGlobal
